@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Droid Audio Stream Demo</string>
+    <string name="stream_audio_and_play">Stream Audio and Play</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
